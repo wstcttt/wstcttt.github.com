@@ -11,7 +11,45 @@ Here is the first line.
 
 ## 标题一 
 
+> test hehehehehhehe 
+>   
+>     int a, *b;
+>     char max;
+>     if(hehe)
+>     	printf();
+>     else
+>     	hahahaha;
+
+this is code:
+
+    cococococococo;
+    fuccccccccckkkkkk;
+code end.
+
+下面是分割线
+
+***
+
+haha
+
+*****
+
+hehe
+
+---
+
+This is [百度的网址] [1] 能打开不？
+[1]: http://baidu.com  "没错！这就是百度！"
+
+[Google][]
+[Google]: http://google.com "GooGGGGGG"
+
 ### 标题2
+
+
+![这是一只喵][2]
+[2]: /img/miao.jpg "喵星人！！！"
+
 
 标题二里面的正文！！
 
@@ -32,6 +70,10 @@ Here is the first line.
 # 标题
 
  _这是格式3_
+
+__strong__
+
+*hehe*
 
 页面路径： [页面文字](/index.html#start-now)
 
